@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a4162c-0a7a-4fc3-bec7-792ac6358828" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/miglayout-swing.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/ClimaOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Medidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/ObservadorMensseger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/Sujeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio1/WeatherChannelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/ObservadorArchivoTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio2/ObservadorConsola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/CompuestoPorArchivoTxt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/CompuestoPorConsola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/CompuestoPorMensseger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Medidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/MedidorBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/MedidorCompuesto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/MedidorSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/database/JdbcRegistrarParticipante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/main/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/model/CorreoElectronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/model/DefaultSistemaParticipantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/model/Notificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/model/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/model/RegistrarParticipante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/model/SistemaParticipantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/model/Sujeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/ui/VentanaAgregarParticipante.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/ui/VentanaAgregarParticipante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/database/EnBaseDatosRegistroRestaurante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/database/EnDiscoRegistro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/exceptions/MesaIncorrectaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/CorreoElectronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Mesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Notificacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Observador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/PlatoPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Propina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Propina2porciento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Propina3porciento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Propina5porciento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/ProveedorDeFechas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Registro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/TIPO_DE_PEDIDO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/Tarjeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/TarjetaComarcaPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/TarjetaMastercad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/TarjetaVisa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/model/sujeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/ui/VentanaGerenteObservador.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/ui/VentanaGerenteObservador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/ui/VentanaTomarPedido.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/ui/VentanaTomarPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/RegistroTemperaturasClimaticas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/RestauranteConObserver" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hA5EQ5APVKDgxck0eOpcXGpT2c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.VentanaTomarPedido.executor": "Run",
+    "Application.ejercicio3.Main.executor": "Run",
+    "Application.ejercicio4.main.main.executor": "Run",
+    "Application.ejercicio5.model.main.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MAK/Documents/Orientacion a Objetos 2(2024)/Todos los TP/Tp4-Layers-AgustinCurilef",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ejercicio4.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ejercicio5.model.main">
+    <configuration name="VentanaTomarPedido" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio5.ui.VentanaTomarPedido" />
+      <module name="PatronObserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio5.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio3.Main" />
+      <module name="PatronObserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio4.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio4.main.main" />
+      <module name="PatronObserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio4.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio5.model.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio5.model.main" />
+      <module name="PatronObserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio5.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio4.ejercicio1.main.main" />
+      <module name="PatronObserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio4.ejercicio1.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ejercicio5.model.main" />
+        <item itemvalue="Application.VentanaTomarPedido" />
+        <item itemvalue="Application.ejercicio4.main.main" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.ejercicio3.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a4162c-0a7a-4fc3-bec7-792ac6358828" name="Changes" comment="" />
+      <created>1717023404349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717023404349</updated>
+    </task>
+    <servers />
+  </component>
+</project>
